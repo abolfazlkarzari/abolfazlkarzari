@@ -1,10 +1,14 @@
 <div align="center">
 
-# ABOLFAZL KARZARI
+# Abolfazl Karzari | ابوالفضل کارزاری
 
-### AI Researcher & Technology Developer
+AI Researcher & Technology Developer
 
-**Artificial Intelligence • Machine Learning • Deep Learning • Software Engineering • Web Development**
+Artificial Intelligence • Machine Learning • Deep Learning
+Software Development • Web Development
+
+ابوالفضل کارزاری، پژوهشگر و توسعه‌دهنده در حوزه هوش مصنوعی،
+یادگیری ماشین، یادگیری عمیق و توسعه نرم‌افزار.
 
 </div>
 
